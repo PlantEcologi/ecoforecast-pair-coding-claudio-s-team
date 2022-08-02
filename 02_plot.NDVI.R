@@ -21,4 +21,3 @@ plot.NDVI <- function(dat, fit = NA, ...){
   } else {
     print("plot.NDVI: input data not provided or invalid")
   } # End if/else statement
-}
